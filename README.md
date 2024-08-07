@@ -1,5 +1,7 @@
 Package: NSVineCopula
 
+Keywords: nonstationary, vine copula, time-varying, dynamic copula
+
 Title: Nonstationary multiple variables dependence modelling
 
 Version: 1.0.0
